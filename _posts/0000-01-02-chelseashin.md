@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our slide deck!"
 ---
-hi my name is chelsea
+hi
 Use the right arrow to begin!
